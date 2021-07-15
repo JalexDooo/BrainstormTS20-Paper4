@@ -1,6 +1,6 @@
 # The Segmentation of Gliomas in BraTS 2020 Challenge
 
-This repository is the work of "_The multimodal brain tumor MRI images segmentation based on ConvRes-Trans-UNet_" based on **pytorch** implementation. 
+This repository is the work of "****" based on **pytorch** implementation. 
 <!-- You could click the link to access the [paper](https://arxiv.org/pdf/1904.03355.pdf). The multimodal brain tumor dataset (BraTS 2018) could be acquired from [here](https://www.med.upenn.edu/sbia/brats2018.html). -->
 
 <!-- ## Dilated multi-fiber network -->
